@@ -17,7 +17,7 @@ export default function Home() {
       {/* <Brands /> */}
       <Features />
       <DashboardPreview />
-      <StatementSection />
+      {/* <StatementSection /> */}
       <BoostSection />
       <FAQ />
       <Footer />

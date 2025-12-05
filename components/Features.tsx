@@ -30,7 +30,7 @@ const Features = () => {
                  </div>
               </div>
            </div>
-           <h3 className="text-xl font-bold text-slate-900 mb-2 group-hover:text-indigo-600 transition-colors">Smart Management</h3>
+           <h3 className="text-xl font-bold text-slate-900 mb-2 group-hover:text-[#BA3C5E] transition-colors">Smart Management</h3>
            <p className="text-slate-500 text-sm leading-relaxed">
              Efficiently manage your assets with our automated tools designed for modern needs.
            </p>
@@ -56,7 +56,7 @@ const Features = () => {
                 <div className="w-8 h-16 bg-blue-400 rounded-t-lg"></div>
               </div>
            </div>
-           <h3 className="text-xl font-bold text-slate-900 mb-2 group-hover:text-indigo-600 transition-colors">Data Analysis</h3>
+           <h3 className="text-xl font-bold text-slate-900 mb-2 group-hover:text-[#BA3C5E] transition-colors">Data Analysis</h3>
            <p className="text-slate-500 text-sm leading-relaxed">
              Real-time analytics to help you make informed decisions about your future.
            </p>
@@ -75,7 +75,7 @@ const Features = () => {
                   </div>
                </div>
            </div>
-           <h3 className="text-xl font-bold text-slate-900 mb-2 group-hover:text-indigo-600 transition-colors">Secure Collaboration</h3>
+           <h3 className="text-xl font-bold text-slate-900 mb-2 group-hover:text-[#BA3C5E] transition-colors">Secure Collaboration</h3>
            <p className="text-slate-500 text-sm leading-relaxed">
              Work together with your team in a secure environment with role-based access.
            </p>

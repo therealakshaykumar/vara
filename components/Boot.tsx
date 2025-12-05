@@ -15,7 +15,7 @@ const BoostSection = () => {
              <p className="text-slate-500 mb-8 max-w-md">
                Eleifend feugiat auctor pharetra ridiculus. Imperdiet vel turpis nam amet varius dignissim tellus volutpat.
              </p>
-             <button className="bg-slate-900 text-white px-8 py-3 rounded-full font-semibold flex items-center gap-2 hover:bg-slate-800 transition-all hover:gap-4">
+             <button className="bg-[#BA3C5E] text-white px-8 py-3 rounded-full font-semibold flex items-center gap-2 hover:bg-[#BA3C5E]/90 transition-all hover:gap-4">
                Get Started <ArrowRight size={18} />
              </button>
           </div>

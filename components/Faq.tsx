@@ -18,7 +18,7 @@ const FAQ = () => {
   return (
     <div className="py-20 max-w-3xl mx-auto px-6">
        <div className="text-center mb-16">
-          <h2 className="text-4xl font-serif text-slate-900 mb-4">Frequently Asked <br/><i className="font-serif italic text-indigo-600">Questions</i></h2>
+          <h2 className="text-4xl font-serif text-slate-900 mb-4">Frequently Asked <br/><i className="font-serif italic text-[#BA3C5E]">Questions</i></h2>
           <p className="text-slate-500 text-sm">Have questions about our finance service? We offer wide range of services form better to give best service in the town.</p>
        </div>
 

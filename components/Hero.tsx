@@ -22,7 +22,7 @@ const Hero = () => {
           <h1 className="text-4xl md:text-6xl font-bold text-slate-900 leading-[1.15]">
             You can Control <br/> 
             All your finance <br/> 
-            through <span className="text-indigo-600">Vara</span>
+            through <span className="bg-linear-to-r from-[#EFBF04] to-[#BA3C5E] bg-clip-text text-transparent">Vara</span>
           </h1>
           
           <p className="text-slate-500 text-lg md:max-w-md leading-relaxed">
@@ -30,7 +30,7 @@ const Hero = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 pt-4">
-            <button className="bg-[#ff6b6b] text-white px-8 py-4 rounded-full font-semibold hover:bg-[#fa5252] transition-all hover:shadow-lg hover:scale-105 flex items-center justify-center gap-2 group">
+            <button className="bg-[#BA3C5E] text-white px-8 py-4 rounded-full font-semibold hover:bg-[#fa5252] transition-all hover:shadow-lg hover:scale-105 flex items-center justify-center gap-2 group">
               Get Started
               <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
             </button>
