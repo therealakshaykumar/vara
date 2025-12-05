@@ -13,7 +13,7 @@ const Navbar = () => {
            <div className="w-4 h-4 bg-white rounded-full opacity-50"></div>
         </div> */}
         <img src="/icon.svg" alt="logo" className='w-5 h-5' />
-        <span className="text-xl font-bold bg-linear-to-r from-[#EFBF04] to-[#BA3C5E] bg-clip-text text-transparent tracking-tight">Vara</span>
+        <span className="text-xl font-bold bg-linear-to-r from-[#EFBF04] to-[#BA3C5E] bg-clip-text text-transparent tracking-tight">Dhanova</span>
       </div>
 
       {/* Desktop Menu */}

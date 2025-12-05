@@ -18,7 +18,7 @@ const Hero = () => {
           <h1 className="text-4xl md:text-6xl font-bold text-slate-900 leading-[1.15]">
             You can Control <br/> 
             All your finance <br/> 
-            through <span className="bg-linear-to-r from-[#EFBF04] to-[#BA3C5E] bg-clip-text text-transparent">Vara</span>
+            through <span className="bg-linear-to-r from-[#EFBF04] to-[#BA3C5E] bg-clip-text text-transparent">Dhanova</span>
           </h1>
           
           <p className="text-slate-500 text-lg md:max-w-md leading-relaxed">

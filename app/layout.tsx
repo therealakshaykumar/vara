@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Vara – Smart Finance Solutions for Secure Wealth Growth",
+  title: "Dhanova – Smart Finance Solutions for Secure Wealth Growth",
   description:
-    "Vara is a modern finance platform offering investment insights, wealth management tools, and secure financial planning solutions. Grow, manage, and track your money with confidence.",
+    "Dhanova is a modern finance platform offering investment insights, wealth management tools, and secure financial planning solutions. Grow, manage, and track your money with confidence.",
   keywords: [
-    "Vara finance",
+    "Dhanova finance",
     "finance platform",
     "wealth management",
     "investment tools",
@@ -18,20 +18,20 @@ export const metadata: Metadata = {
     "budgeting tools",
   ],
   openGraph: {
-    title: "Vara – Smart Finance Solutions for Your Wealth",
+    title: "Dhanova – Smart Finance Solutions for Your Wealth",
     description:
-      "Manage and grow your wealth with Vara. Access investment tools, financial planning insights, and secure money management features.",
-    url: "https://vara.com", // replace with your real domain
-    siteName: "Vara",
+      "Manage and grow your wealth with Dhanova. Access investment tools, financial planning insights, and secure money management features.",
+    url: "https://Dhanova.com", // replace with your real domain
+    siteName: "Dhanova",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Vara – Smarter Finance for Everyone",
+    title: "Dhanova – Smarter Finance for Everyone",
     description:
       "A modern platform offering investment insights, wealth tools, and financial management solutions.",
   },
-  authors: [{ name: "Vara Team" }],
+  authors: [{ name: "Dhanova Team" }],
 };
 
 
