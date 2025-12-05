@@ -1,10 +1,6 @@
 "use client"
 import { useState } from 'react';
-import { 
-  Menu, X, Phone, Mail, ArrowRight, ChevronDown, ChevronUp, 
-  TrendingUp, Shield, PieChart, Activity, DollarSign, Users, 
-  Layers, BarChart3, CheckCircle2 
-} from 'lucide-react';
+import { Menu, X, Phone, Mail } from 'lucide-react';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);

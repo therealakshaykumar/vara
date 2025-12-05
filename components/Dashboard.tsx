@@ -1,8 +1,4 @@
-import { 
-  Menu, X, Phone, Mail, ArrowRight, ChevronDown, ChevronUp, 
-  TrendingUp, Shield, PieChart, Activity, DollarSign, Users, 
-  Layers, BarChart3, CheckCircle2 
-} from 'lucide-react';
+import { TrendingUp } from 'lucide-react';
 
 const DashboardPreview = () => {
   return (

@@ -1,9 +1,5 @@
 'use client'
-import { 
-  Menu, X, Phone, Mail, ArrowRight, ChevronDown, ChevronUp, 
-  TrendingUp, Shield, PieChart, Activity, DollarSign, Users, 
-  Layers, BarChart3, CheckCircle2 
-} from 'lucide-react';
+import { ChevronDown, ChevronUp } from 'lucide-react';
 import { useState } from 'react';
 
 const FAQ = () => {
